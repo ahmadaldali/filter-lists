@@ -1,0 +1,17 @@
+{
+    "name": "ahmad/filter-lists",
+    "description": "Make dealing with lists easier",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ahmad\\FilterLists\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ahmadaldali88",
+            "email": "ahmadaldali88@gmail.com"
+        }
+    ],
+    "require": {}
+}
