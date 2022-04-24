@@ -2,8 +2,12 @@
 
 namespace AhmadAldali\FilterLists\Traits;
 
+use AhmadAldali\FilterLists\Template\Filter\FilterListTemplate;
+use AhmadAldali\FilterLists\Template\Filter\FilterListTemplateWithWhereBetween;
+
 trait ListsResult
 {
+
     /**
      * @param $model
      * @param $request
