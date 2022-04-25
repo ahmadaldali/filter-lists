@@ -58,6 +58,7 @@ I create a route on my test application, that's called */list*.
 In that route, I executed an action in a controller that contains the previous **Usage**.
 
 **Get all results**
+![alt text](https://github.com/ahmadaldali/filter-lists/blob/main/images/1%20git%20all%20results.png)
 
 **Apply limit**
 
