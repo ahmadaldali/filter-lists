@@ -1,15 +1,10 @@
 <?php
 
-
 namespace AhmadAldali\FilterLists\Template\Filter;
-
 
 use AhmadAldali\FilterLists\Traits\FixRange;
 use AhmadAldali\FilterLists\Traits\SaveJson;
 
-/**
- *
- */
 class FilterListTemplateWithWhereBetween extends FilterListTemplateAbstract
 {
     use FixRange;

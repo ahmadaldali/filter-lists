@@ -7,7 +7,6 @@ use AhmadAldali\FilterLists\Template\Filter\FilterListTemplateWithWhereBetween;
 
 trait ListsResult
 {
-
     /**
      * @param $model
      * @param $request
@@ -31,9 +30,6 @@ trait ListsResult
             $template = new FilterListTemplate();
         }
         $records = $template->filter($model, $params, $request);
-        if ($records == null) {
-            return response([], 422);
-        }
         return response($records, 200);
     }
 }//trait
