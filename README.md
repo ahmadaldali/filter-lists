@@ -30,7 +30,7 @@ Available values: today, monthly, yearly
 ```
 # .dependencies
 ```bash
-laravel: "~> 8",
+laravel: ">=8",
 ```
 
 ## Installation
@@ -91,6 +91,7 @@ In that route, I executed an action in a controller that contains the previous *
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
 Welcome to any suggestion.
 
 
