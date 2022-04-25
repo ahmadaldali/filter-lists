@@ -62,16 +62,14 @@ class FilterBuilder implements FilterInterface
         return $this;
     }
 
+    /**
+     * @return mixed
+     */
     public function paginate()
     {
-        try {
-            $limit = (array_key_exists('limit', $this->list))
-                ? (($this->list['limit'] >= 0) ? $this->list['limit'] : 0)
-                : 0;
-            return $this->model->paginate($limit);
-        } catch (Exception $e) {
-            //something error, for example, one of the params is not a column
-            return null;
-        }
+        $limit = (array_key_exists('limit', $this->list))
+            ? (($this->list['limit'] >= 0) ? $this->list['limit'] : 0)
+            : 0;
+        return $this->model->paginate($limit);
     }
 }

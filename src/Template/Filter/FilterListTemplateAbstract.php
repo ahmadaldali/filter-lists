@@ -5,7 +5,6 @@ namespace AhmadAldali\FilterLists\Template\Filter;
 
 use AhmadAldali\FilterLists\Filter\FilterBuilder;
 
-
 abstract class FilterListTemplateAbstract
 {
     protected $builder = null;
