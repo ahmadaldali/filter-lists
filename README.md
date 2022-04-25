@@ -12,6 +12,9 @@ Include a paginated response and include these basic filters:
 // desc (bool): determine the type of your sort. 
 ```
 Include filters according to your model's columns.
+```bash
+// e.g: name, email, is_admin, etc ...
+```
 
 Include filters according to "dateRange" attribute
 ```bash
