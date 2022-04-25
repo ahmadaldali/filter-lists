@@ -61,6 +61,7 @@ $results = $this->getTheResult($collection , $request);
 
 ## Example
 I create a route on my test application, that's called */list*.
+
 In that route, I executed an action in a controller that contains the previous **Usage**.
 
 **Get all results**
