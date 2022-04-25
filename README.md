@@ -72,8 +72,13 @@ In that route, I executed an action in a controller that contains the previous *
 **Apply condition with wrong value**
 ![alt text](https://github.com/ahmadaldali/filter-lists/blob/main/images/5%20apply%20condition%20with%20wrong%20value.png)
 
+**Apply condition with wrong column name**
+![alt text](https://github.com/ahmadaldali/filter-lists/blob/main/images/6%20apply%20with%20wrong%20column%20name.png)
+
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Welcome to any suggestion.
 
 
 ## License
