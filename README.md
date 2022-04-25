@@ -61,13 +61,16 @@ In that route, I executed an action in a controller that contains the previous *
 ![alt text](https://github.com/ahmadaldali/filter-lists/blob/main/images/1%20git%20all%20results.png)
 
 **Apply limit**
+![alt text](https://github.com/ahmadaldali/filter-lists/blob/main/images/2%20apply%20limit.png)
 
 **Apply limit with page**
+![alt text](https://github.com/ahmadaldali/filter-lists/blob/main/images/3%20apply%20limit%20with%20page.png)
 
 **Apply condition**
+![alt text](https://github.com/ahmadaldali/filter-lists/blob/main/images/4%20apply%20condition%20on%20column's%20name.png)
 
 **Apply condition with wrong value**
-
+![alt text](https://github.com/ahmadaldali/filter-lists/blob/main/images/5%20apply%20condition%20with%20wrong%20value.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
