@@ -28,13 +28,16 @@ Available values: today, monthly, yearly
 // get your list that is created in the current month.
 // get your list that is created in the current year.
 ```
+# .dependencies
+```bash
+laravel: "~> 8",
+```
 
 ## Installation
 
-Use the composer manager to install filter-lists.
+Require this package, with Composer, in the root directory of your project.
 
 ```bash
-cd your_project
 composer require ahmadaldali/filter-lists
 ```
 
