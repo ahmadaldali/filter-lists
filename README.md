@@ -30,7 +30,7 @@ Available values: today, monthly, yearly
 ```
 # .dependencies
 ```bash
-laravel: ">=8",
+laravel/framework: ">=8",
 ```
 
 ## Installation
